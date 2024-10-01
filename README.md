@@ -14,3 +14,5 @@
   <img align="center" alt="Rafa-React" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
+
+![snake gif](https://github.com/EngelsEvelin/EngelsEvelin/blob/output/github-contribution-grid-snake.gif)
